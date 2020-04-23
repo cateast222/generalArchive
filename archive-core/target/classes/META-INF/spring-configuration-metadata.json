@@ -1,0 +1,47 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.ebs.platform.core.conf.ModuleConfig",
+      "name": "com.ebs",
+      "type": "com.ebs.platform.core.conf.ModuleConfig"
+    },
+    {
+      "sourceType": "com.ebs.platform.core.conf.DruidConfig",
+      "name": "spring.datasource",
+      "sourceMethod": "druidDataSource()",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.ebs.platform.core.conf.ModuleConfig",
+      "name": "com.ebs.module-desc",
+      "description": "当前服务模块的描述",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.ebs.platform.core.conf.ModuleConfig",
+      "name": "com.ebs.module-developer-email",
+      "description": "模块的开发者邮箱",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.ebs.platform.core.conf.ModuleConfig",
+      "name": "com.ebs.module-dictionary",
+      "type": "java.util.List<com.ebs.platform.core.dto.DictionaryObject>"
+    },
+    {
+      "sourceType": "com.ebs.platform.core.conf.ModuleConfig",
+      "name": "com.ebs.module-name",
+      "description": "当前服务模块的名称",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.ebs.platform.core.conf.ModuleConfig",
+      "name": "com.ebs.server-url",
+      "description": "提供系统认证服务，及权限、菜单、角色等核心服务的地址",
+      "type": "java.lang.String"
+    }
+  ]
+}

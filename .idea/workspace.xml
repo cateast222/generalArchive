@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2e98db3-dfb3-4dec-a572-52666c3fa00f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>firstInit</find>
+      <find>全宗</find>
+      <find>contain</find>
+      <find>HttpClient</find>
+      <find>findByParent</find>
+      <find>queryAllType</find>
+      <find>Predicate</find>
+      <find>bet</find>
+      <find>entityBorrowType</find>
+      <find>borrowType</find>
+      <find>borrower</find>
+      <find>commons</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\wx_svn_code\wx_svn_lwy\综合档案\generalArchive\archive-system\src\main\java\com\ebs\platform\business</dir>
+      <dir>E:\wx_svn_code\wx_svn_lwy\综合档案\generalArchive\archive-system\src\main\java\com\ebs\platform\business\domain</dir>
+      <dir>E:\wx_svn_code\wx_svn_lwy\综合档案\generalArchive\archive-system\src\main\java\com\ebs\platform\business\dao</dir>
+      <dir>E:\wx_svn_code\wx_svn_lwy\综合档案\generalArchive</dir>
+      <dir>E:\wx_svn_code\wx_svn_lwy\综合档案\generalArchive\archive-system\src\main\java\com\ebs\platform\business\service\impl</dir>
+    </dirStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\01\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\01\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uj4wy9MEwbLu47NawsUHG3k5Lm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575422287529" />
+    <property name="last_opened_file_path" value="E:/档案资料/daglh/archiveSystem" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ebs.platform.business.mapper" />
+      <recent name="com.ebs.platform.business.web" />
+      <recent name="com.ebs.platform.business.dao" />
+      <recent name="com.ebs.platform.business.service.impl" />
+      <recent name="com.ebs.platform.business.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wx_svn_code\wx_svn_lwy\综合档案\generalArchive\archive-system\src\main\java\com\ebs\platform\business\dto\archive" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ArchiveSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="archive-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ebs.platform.business.ArchiveSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\01\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2e98db3-dfb3-4dec-a572-52666c3fa00f" name="Default Changelist" comment="" />
+      <created>1572838410886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572838410886</updated>
+      <workItem from="1572838440215" duration="12264000" />
+      <workItem from="1572921984634" duration="1254000" />
+      <workItem from="1573002134515" duration="10699000" />
+      <workItem from="1573089921764" duration="4378000" />
+      <workItem from="1573174125872" duration="3032000" />
+      <workItem from="1573606275685" duration="712000" />
+      <workItem from="1573613986957" duration="3943000" />
+      <workItem from="1573638761144" duration="5429000" />
+      <workItem from="1573692986950" duration="15362000" />
+      <workItem from="1573778241806" duration="14596000" />
+      <workItem from="1574039045690" duration="4264000" />
+      <workItem from="1574760344796" duration="5528000" />
+      <workItem from="1574819260916" duration="15941000" />
+      <workItem from="1574992308044" duration="560000" />
+      <workItem from="1574992966621" duration="455000" />
+      <workItem from="1574993450841" duration="18000" />
+      <workItem from="1574993559308" duration="4322000" />
+      <workItem from="1575079842479" duration="717000" />
+      <workItem from="1575334441178" duration="5207000" />
+      <workItem from="1575362661108" duration="3143000" />
+      <workItem from="1575856917841" duration="92000" />
+      <workItem from="1575860377543" duration="72000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1575364470944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575364470944</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>StringUtils.isBlank(param)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>DateUtil.GetMinSecondCodeString().substring(8)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>DateUtil.GetMinSecondCodeString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
